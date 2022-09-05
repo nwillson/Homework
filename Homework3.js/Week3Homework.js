@@ -35,4 +35,5 @@ getPizzaOrder("large", "thin", "ham", "pepperoni", "bacon");
 /* I could not get servePizza(); to recognize Object.values(); without wrapping it inside of the preparePizza(); function.
 I'm sure I did something different along the way that forced this to be the case.
 I tried all 3 bonus questions in a variety of different ways, but kept breaking my code in order to get it to work. I'm sure I'm missing something here.
+Other than that, should be all good to go!
 */
