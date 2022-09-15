@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .appName {
+    font-family: cinzel;
+  }
+  
+  .title {
+    font-family: cinzel;
+    display: block;
+    text-align: center;
+      height: 60px;
+      width: 700px;
+      line-height: 60px;
+  
+      -moz-border-radius: 30px; /* or 50% */
+      border-radius: 30px; /* or 50% */
+  
+      background-color: #00244c;
+      background-position: center;
+      background-attachment: fixed;
+      color: white;
+  }
+  
