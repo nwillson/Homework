@@ -1,0 +1,100 @@
+html {
+    background-color: antiquewhite;
+  }
+
+  @media(max-width: 375px) {
+
+    #bio {
+      font-size: 10px;
+  }
+
+  .video {
+    width:50%;
+  }
+
+  #Stuff {
+    font-size: 14px;
+  }
+
+  #Stuff > a {
+    width: 25%;
+  }
+
+  #top > img {
+    width: 100%
+      }
+
+      div {
+        border: 2px solid burlywood;
+        margin: 10px;
+      }
+
+  #earlyLife {
+    font-size: 14px;
+    margin-top: 80px;
+  }
+
+  #earlyCareer {
+    font-size: 14px;
+  }
+
+  #earlyCareer > img {
+    width:50%;
+    margin-top: 10px;
+  }
+
+  }
+
+  #proCareer {
+    font-size: 14px;
+  }
+
+  #proCareer > img {
+    width:50%;
+    margin-top: 10px;
+  }
+
+  #acting {
+    font-size: 14px;
+  }
+
+  #achievements {
+    font-size: 14px;
+  }
+
+  #personal {
+    font-size: 14px;
+  }
+  
+  body {
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  img {
+    height: 100%;
+  }
+  
+  div {
+    border: 2px solid burlywood;
+    margin: 10px;
+  }
+  
+  #introPic {
+    float: left;
+  }
+  
+  #bio {
+    float: right;
+  }
+  #bio > li {
+    padding: 2px;
+  }
+  
+  #pro {
+    width: auto;
+  }
